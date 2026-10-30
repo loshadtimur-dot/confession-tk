@@ -15,15 +15,11 @@ from aiogram.types import (
 )
 
 # ===================== НАСТРОЙКИ =====================
-BOT_TOKEN = "ВСТАВЬ_ТОКЕН_ОТ_BOTFATHER"
+BOT_TOKEN = "9160302753:AAGgVI8q1cZynCg3j5FMxB5OmRll08DdsII"
 
 # Telegram ID тебя и твоих друзей (узнать у @userinfobot).
 # Добавляй сколько нужно, через запятую.
-ADMIN_IDS = [
-    123456789,  # ты
-    987654321,  # друг 1
-    # 555555555,  # друг 2
-]
+ADMIN_IDS = [6263900255]
 
 CHANNEL = "@tk_confession_real"
 DB_PATH = "bot.db"
